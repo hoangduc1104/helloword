@@ -1,0 +1,142 @@
+h1 {
+    color: red;
+    font-size: x-large;
+}
+
+table {
+    border-collapse: collapse;
+    width: 600px;
+    border-spacing: 0;
+}
+
+table tr {
+    height: 30px;
+}
+
+tr th {
+    background-color: #254892;
+    font-size: 12px;
+    color: #ebebeb;
+    font-weight: 400;
+    text-align: center;
+}
+
+tr td {
+    font-size: 15px;
+    color: black;
+    font-weight: 400;
+    text-align: center;
+}
+
+tr .ten {
+    font-size: 15px;
+    color: black;
+    font-weight: 400;
+    text-align: left;
+}
+
+tr .cotc {
+    font-weight: 700;
+}
+
+tr .sttd {
+    width: 25px;
+}
+
+tr #head1 {
+    font-weight: 700;
+    font-size: 17px;
+    text-align: left;
+}
+
+tr td div {
+    color: #254892;
+    font-weight: 400;
+    text-align: left;
+}
+
+#bxh table {
+    border-collapse: collapse;
+    width: 600px;
+    border-spacing: 0;
+    background-color: white;
+}
+
+#bxh tr td {
+    background-color: white;
+}
+
+tr .sttd {
+    position: absolute;
+    left: 12px;
+    margin-top: 4px;
+    height: 20px;
+    width: 20px;
+    background-color: #00A651;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+tr .stt2 {
+    position: absolute;
+    left: 12px;
+    margin-top: 4px;
+    height: 20px;
+    width: 20px;
+    background-color: #FFB400;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+tr .stt4 {
+    position: absolute;
+    left: 12px;
+    margin-top: 4px;
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.a {
+    background-color: #ebebebeb;
+}
+
+#chugiai {
+    position: absolute;
+    left: 350px;
+    background-color: #ebebebeb;
+}
+
+#chugiai p #chugiai1 {
+    height: 20px;
+    width: 20px;
+    background-color: #00A651;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#chugiai p #chugiai1 {
+    height: 20px;
+    width: 20px;
+    background-color: #00A651;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#chugiai p #chugiai2 {
+    height: 20px;
+    width: 20px;
+    background-color: #ffb400;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+#chugiai p #chugiai3 {
+    height: 20px;
+    width: 20px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+}

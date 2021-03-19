@@ -1,0 +1,33 @@
+h1 {
+    color: red;
+}
+
+#a {
+    color: blue;
+}
+
+.b {
+    color: grey;
+}
+
+table,
+tr,
+th,
+td {
+    border: 0.2px solid red;
+}
+
+#head {
+    background-color: royalblue;
+    width: 100px;
+}
+
+.tablebody,
+tr,
+td {
+    text-align: center;
+}
+
+table {
+    width: 1000px
+}
